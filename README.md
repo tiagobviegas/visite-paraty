@@ -9,45 +9,45 @@ Site fictício da Prefeitura de Paraty para a prática de pseudo-classes e pseud
 
 ## PROGRESS
 
-- [X] HTML structuring for styling work
-- [X] Reset CSS standard specs
-- [X] Definition of essential elements and common styles
+- [ ] HTML structuring for styling work
+- [ ] Reset CSS standard specs
+- [ ] Definition of essential elements and common styles
 ### Main Page
-- [X] Section 1 - Header - concluded
-- [X] Section 2 - Content - concluded
-- [X] Section 2.1 - Banner - concluded
-- [X] Section 2.2 - Welcome - concluded
-- [X] Section 2.3 - Rooms - concluded
-- [X] Section 2.4 - Location - concluded
-- [X] Section 2.5 - About - concluded
-- [X] Section 3 - Footer - concluded
-- [X] Refactoring
+- [ ] Section 1 - Header - concluded
+- [ ] Section 2 - Content - concluded
+- [ ] Section 2.1 - Banner - concluded
+- [ ] Section 2.2 - Welcome - concluded
+- [ ] Section 2.3 - Rooms - concluded
+- [ ] Section 2.4 - Location - concluded
+- [ ] Section 2.5 - About - concluded
+- [ ] Section 3 - Footer - concluded
+- [ ] Refactoring
 ### Rooms Page
-- [X] Section 1 - Header - concluded
-- [X] Section 2 - Content - concluded
-- [X] Section 3 - Footer - concluded
-- [X] Refactoring
-- [X] Project concluded
+- [ ] Section 1 - Header - concluded
+- [ ] Section 2 - Content - concluded
+- [ ] Section 3 - Footer - concluded
+- [ ] Refactoring
+- [ ] Project concluded
 
 
 ## PROGRESSO
 
-- [X] Estruturação da página HTML para posterior estilização
-- [X] Reset das especificações CSS padrões
-- [X] Definição de elementos essenciais e estilizações comuns
+- [ ] Estruturação da página HTML para posterior estilização
+- [ ] Reset das especificações CSS padrões
+- [ ] Definição de elementos essenciais e estilizações comuns
 ### Página Principal
-- [X] Section 1 - Topo - concluded
-- [X] Section 2 - Conteúdo - concluded
-- [X] Section 2.1 - Banner - concluded
-- [X] Section 2.2 - Boas-vindas - concluded
-- [X] Section 2.3 - Quartos - concluded
-- [X] Section 2.4 - Localização - concluded
-- [X] Section 2.5 - Sobre - concluded
-- [X] Section 3 - Rodapé - concluded
-- [X] Refatoração
+- [ ] Section 1 - Topo - concluded
+- [ ] Section 2 - Conteúdo - concluded
+- [ ] Section 2.1 - Banner - concluded
+- [ ] Section 2.2 - Boas-vindas - concluded
+- [ ] Section 2.3 - Quartos - concluded
+- [ ] Section 2.4 - Localização - concluded
+- [ ] Section 2.5 - Sobre - concluded
+- [ ] Section 3 - Rodapé - concluded
+- [ ] Refatoração
 ### Página Quartos
-- [X] Sessão 1 - Topo - concluída
-- [X] Sessão 2 - Conteúdo - concluída
-- [X] Sessão 3 - Rodapé - concluída
-- [X] Refatoração
-- [X] Projeto concluído
+- [ ] Sessão 1 - Topo - concluída
+- [ ] Sessão 2 - Conteúdo - concluída
+- [ ] Sessão 3 - Rodapé - concluída
+- [ ] Refatoração
+- [ ] Projeto concluído
