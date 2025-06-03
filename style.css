@@ -1,0 +1,90 @@
+* {
+  margin: 0;
+  font-family: sans-serif;
+}
+
+header div {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px 15px;
+}
+
+.limita-secao {
+  max-width: 1024px;
+  margin: 0 auto;
+}
+
+header img {
+  width: 150px;
+}
+
+header nav {
+  font-size: 18px;
+}
+
+header a {
+  margin: 0 5px;
+  text-decoration: none;
+  color: #000;
+  padding: 5px;
+}
+
+/* BANNER SECTION | SEÇÃO CAPA ============================================================= */
+
+section {
+  padding: 60px 20px;
+}
+
+.secao-capa {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  text-align: center;
+  background-image: url("img/bg-estacao.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.secao-capa::before {
+  content: "";
+  width: 100%;
+  height: 100%;
+  background: #000;
+  opacity: 0.5;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.secao-capa div {
+  position: relative;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-transform: uppercase;
+  padding: 60px 20px;
+  z-index: 1;
+}
+
+.secao-capa h1 {
+  font-size: 80px;
+}
+
+.secao-capa h2 {
+  font-size: 35px;
+}
+
+.secao-capa h1, .secao-capa h2 {
+  margin: 0;
+  color: #ffffff;
+  text-shadow: 1px 1px 5px #000000;
+}
+
+/* THE CITY SECTION | SEÇÃO SOBRE A CIDADE =================================================== */
+

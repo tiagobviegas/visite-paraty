@@ -9,10 +9,10 @@ Site fictício da Prefeitura de Paraty para a prática de pseudo-classes e pseud
 
 ## PROGRESS
 - [X] HTML structuring for styling work
-- [ ] Reset CSS standard specs
-- [ ] Definition of essential elements and common styles
-- [ ] Section 1 - Header - concluded
-- [ ] Section 2 - Banner - concluded
+- [X] Reset CSS standard specs
+- [X] Definition of essential elements and common styles
+- [X] Section 1 - Header - concluded
+- [X] Section 2 - Banner - concluded
 - [ ] Section 3 - The City - concluded
 - [ ] Section 4 - Tourist Attractions - concluded
 - [ ] Section 5 - Photo Gallery - concluded
@@ -23,9 +23,9 @@ Site fictício da Prefeitura de Paraty para a prática de pseudo-classes e pseud
 
 ## PROGRESSO
 - [X] Estruturação da página HTML
-- [ ] Reset das especificações CSS padrões
-- [ ] Definição de elementos essenciais e estilizações comuns
-- [ ] Section 1 - Topo - concluído
+- [X] Reset das especificações CSS padrões
+- [X] Definição de elementos essenciais e estilizações comuns
+- [X] Section 1 - Topo - concluído
 - [ ] Section 2 - Banner - concluído
 - [ ] Section 3 - Sobre a Cidade - concluído
 - [ ] Section 4 - Pontos turísticos - concluído
