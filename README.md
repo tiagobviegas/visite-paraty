@@ -13,12 +13,11 @@ Site fictício da Prefeitura de Paraty para a prática de pseudo-classes e pseud
 - [X] Definition of essential elements and common styles
 - [X] Section 1 - Header - concluded
 - [X] Section 2 - Banner - concluded
-- [ ] Section 3 - The City - concluded
-- [ ] Section 4 - Tourist Attractions - concluded
-- [ ] Section 5 - Photo Gallery - concluded
-- [ ] Section 6 - Footer - concluded
-- [ ] Refactoring
-- [ ] Project concluded
+- [X] Section 3 - The City - concluded
+- [X] Section 4 - Tourist Attractions - concluded
+- [X] Section 5 - Photo Gallery - concluded
+- [X] Section 6 - Footer - concluded
+- [X] Project concluded
 
 
 ## PROGRESSO
@@ -26,10 +25,9 @@ Site fictício da Prefeitura de Paraty para a prática de pseudo-classes e pseud
 - [X] Reset das especificações CSS padrões
 - [X] Definição de elementos essenciais e estilizações comuns
 - [X] Section 1 - Topo - concluído
-- [ ] Section 2 - Banner - concluído
-- [ ] Section 3 - Sobre a Cidade - concluído
-- [ ] Section 4 - Pontos turísticos - concluído
-- [ ] Section 5 - Galeria de Fotos - concluído
-- [ ] Section 6 - Rodapé - concluído
-- [ ] Refatoração
-- [ ] Projeto concluído
+- [X] Section 2 - Banner - concluído
+- [X] Section 3 - Sobre a Cidade - concluído
+- [X] Section 4 - Pontos turísticos - concluído
+- [X] Section 5 - Galeria de Fotos - concluído
+- [X] Section 6 - Rodapé - concluído
+- [X] Projeto concluído
